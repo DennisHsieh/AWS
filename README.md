@@ -76,5 +76,5 @@ https://ithelp.ithome.com.tw/users/20100951/ironman/4671
 https://venturebeat.com/security/15-top-paying-it-certifications-for-2022/
 https://holori.com/cloud-market-2022/
 
-Long IMG file testing
+Long IMG file testing, large photo cost time to upload need wait for it.
 ![](https://i.imgur.com/pkNY0EE.jpg)
