@@ -18,11 +18,14 @@ I
 
 ### Subnets communication
 ![](https://i.imgur.com/5ImTlD4.png)
+
 Different subnets in same VPC can communicate via "Local"
-![](https://i.imgur.com/xaowCYh.png)
+![](https://i.imgur.com/joePbIt.png)
+
 
 ### Subnet via IGW to Internet
 ![](https://i.imgur.com/WcpbCmd.png)
+
 Set default route to IGW at route table of the subnet
 ![](https://i.imgur.com/4kG96Bh.png)
 
@@ -62,6 +65,9 @@ Not lab yet
 ![](https://i.imgur.com/OSVXqfE.png)
 ## [RDS Structure](https://ithelp.ithome.com.tw/articles/10271693)
 ![](https://i.imgur.com/Cc3WNGO.png)
+## LAB of RDS
+## IAM
+## LAB of 3 tired structure (EC2+VPC+S3+RDS+IAM)
 
 
 
